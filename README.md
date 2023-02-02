@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Alexander 👋
+#### QA Automation Engineer 
+##### [My LinkedIN](https://www.linkedin.com/in/alexander-zolotukhin-aqa/)
+
+
 
 <!--
 **chipolinkin/chipolinkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
